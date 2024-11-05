@@ -1,6 +1,6 @@
 
 
-## **Email Validation Project Overview
+## Email Validation Project Overview
 
 This project demonstrates the use of regular expressions (regex) for validating email addresses in JavaScript. Regular expressions are powerful tools for matching patterns in strings, making them ideal for validating user inputs like email addresses, ensuring they adhere to standard formats.
 
@@ -20,8 +20,7 @@ The project includes a JavaScript function, `validateEmail`, which checks whethe
 
 Below is a screenshot illustrating **Regular Expression 104**, which visually represents the regex pattern and its components:
 
-![Regular Expression 104](![Screenshot 2024-11-05 235024](https://github.com/user-attachments/assets/1c91a392-719e-4e2b-8594-5bba70a21a7c)
-)
+![Screenshot 2024-11-05 235024](https://github.com/user-attachments/assets/1c91a392-719e-4e2b-8594-5bba70a21a7c)
 
 ## Example Usage
 
